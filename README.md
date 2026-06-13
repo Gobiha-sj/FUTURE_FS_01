@@ -27,11 +27,11 @@ It showcases my background, skills, and projects, and serves as a digital resume
 ---
 
 ## 📂 Project Structure
-FUTURE_FS_01/
-│── index.html        # Main HTML file
-│── style.css         # Styling
-│── script.js         # Interactivity
-│── README.md         # Documentation
+- FUTURE_FS_01/
+- │── index.html        # Main HTML file
+- │── style.css         # Styling
+- │── script.js         # Interactivity
+- │── README.md         # Documentation
 
 ---
 
